@@ -1,2 +1,0 @@
-def hoo():
-    print('hoo')
