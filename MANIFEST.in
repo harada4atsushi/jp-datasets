@@ -8,5 +8,3 @@ include LICENSE.txt
 recursive-include data *
 
 recursive-include jpdatasets/data *
-
-include jpdatasets/data/polarity.csv
