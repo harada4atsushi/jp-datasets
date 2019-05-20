@@ -4,4 +4,8 @@
 
 ## 使い方
 
-TODO
+### インストール
+
+```
+$ pip install git+https://github.com/harada4atsushi/jp-datasets
+```
